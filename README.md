@@ -23,3 +23,9 @@ Ways to get Odyssey go to releases and download the ipa
 4v1,2 choose libhooker or substitute as your triggers (libhooker works with anemone)
 
 4v3 follow the steps above
+
+# odyssey
+
+Odyssey can so far jailbreak ios 13 - 13.5.5
+
+odyssey version 1.0 will not support 13.3.1 so for that ios download version beta 3
